@@ -1,25 +1,25 @@
 [
   {
     "full_name": "illumos/illumos-gate",
-    "stargazers_count": 1197,
+    "stargazers_count": 1198,
     "open_issues_count": 6,
-    "forks_count": 713
+    "forks_count": 714
   },
   {
     "full_name": "owtf/owtf",
-    "stargazers_count": 1575,
-    "open_issues_count": 78,
-    "forks_count": 462
+    "stargazers_count": 1578,
+    "open_issues_count": 79,
+    "forks_count": 463
   },
   {
     "full_name": "carlospolop/legion",
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 2,
     "forks_count": 102
   },
   {
     "full_name": "six2dez/pentest-book",
-    "stargazers_count": 740,
+    "stargazers_count": 743,
     "open_issues_count": 0,
     "forks_count": 304
   },
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 4,
     "forks_count": 93
   },
   {
     "full_name": "initstring/cloud_enum",
-    "stargazers_count": 788,
-    "open_issues_count": 3,
+    "stargazers_count": 791,
+    "open_issues_count": 2,
     "forks_count": 145
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "screetsec/Sudomy",
-    "stargazers_count": 1330,
+    "stargazers_count": 1332,
     "open_issues_count": 26,
-    "forks_count": 298
+    "forks_count": 299
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 38429,
+    "stargazers_count": 38491,
     "open_issues_count": 20,
-    "forks_count": 10470
+    "forks_count": 10479
   },
   {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4134,
+    "stargazers_count": 4144,
     "open_issues_count": 97,
-    "forks_count": 856
+    "forks_count": 857
   },
   {
     "full_name": "testert1ng/hacker101-ctf",
@@ -79,49 +79,49 @@
   },
   {
     "full_name": "AbdulMalikDev/PythonCheatSheet",
-    "stargazers_count": 293,
+    "stargazers_count": 298,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "sqlmapproject/sqlmap",
-    "stargazers_count": 23843,
+    "stargazers_count": 23864,
     "open_issues_count": 55,
     "forks_count": 4884
   },
   {
     "full_name": "commixproject/commix",
-    "stargazers_count": 3316,
-    "open_issues_count": 5,
-    "forks_count": 701
+    "stargazers_count": 3320,
+    "open_issues_count": 4,
+    "forks_count": 700
   },
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 13797,
-    "open_issues_count": 1153,
-    "forks_count": 2694
+    "stargazers_count": 13806,
+    "open_issues_count": 1154,
+    "forks_count": 2698
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17240,
-    "open_issues_count": 1099,
-    "forks_count": 4106
+    "stargazers_count": 17281,
+    "open_issues_count": 1102,
+    "forks_count": 4116
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2862,
-    "open_issues_count": 225,
-    "forks_count": 2772
+    "stargazers_count": 2876,
+    "open_issues_count": 219,
+    "forks_count": 2782
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 338,
-    "open_issues_count": 5,
-    "forks_count": 24
+    "stargazers_count": 340,
+    "open_issues_count": 3,
+    "forks_count": 25
   },
   {
     "full_name": "Azure/Stormspotter",
-    "stargazers_count": 1152,
+    "stargazers_count": 1153,
     "open_issues_count": 32,
     "forks_count": 149
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "RhinoSecurityLabs/pacu",
-    "stargazers_count": 2830,
+    "stargazers_count": 2837,
     "open_issues_count": 34,
     "forks_count": 512
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4370,
-    "open_issues_count": 145,
-    "forks_count": 684
+    "stargazers_count": 4373,
+    "open_issues_count": 146,
+    "forks_count": 686
   },
   {
     "full_name": "aquasecurity/cloudsploit",
     "stargazers_count": 2235,
-    "open_issues_count": 174,
+    "open_issues_count": 156,
     "forks_count": 511
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 2425,
-    "open_issues_count": 59,
-    "forks_count": 93
+    "stargazers_count": 2426,
+    "open_issues_count": 64,
+    "forks_count": 95
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 133677,
+    "stargazers_count": 133811,
     "open_issues_count": 317,
-    "forks_count": 43448
+    "forks_count": 43482
   },
   {
     "full_name": "AkashSingh3031/The-Complete-FAANG-Preparation",
-    "stargazers_count": 7852,
+    "stargazers_count": 7862,
     "open_issues_count": 3,
-    "forks_count": 1816
+    "forks_count": 1824
   },
   {
     "full_name": "DulLabs/bhai-lang",
-    "stargazers_count": 3530,
+    "stargazers_count": 3536,
     "open_issues_count": 50,
-    "forks_count": 445
+    "forks_count": 448
   },
   {
     "full_name": "jython/jython",
-    "stargazers_count": 604,
-    "open_issues_count": 49,
+    "stargazers_count": 607,
+    "open_issues_count": 47,
     "forks_count": 107
   }
 ]
