@@ -1,14 +1,14 @@
 [
   {
     "full_name": "illumos/illumos-gate",
-    "stargazers_count": 1198,
+    "stargazers_count": 1200,
     "open_issues_count": 6,
     "forks_count": 714
   },
   {
     "full_name": "owtf/owtf",
-    "stargazers_count": 1578,
-    "open_issues_count": 79,
+    "stargazers_count": 1580,
+    "open_issues_count": 72,
     "forks_count": 463
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "six2dez/pentest-book",
-    "stargazers_count": 743,
+    "stargazers_count": 746,
     "open_issues_count": 0,
     "forks_count": 304
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 4,
     "forks_count": 93
   },
@@ -56,18 +56,18 @@
   {
     "full_name": "screetsec/Sudomy",
     "stargazers_count": 1332,
-    "open_issues_count": 26,
-    "forks_count": 299
+    "open_issues_count": 27,
+    "forks_count": 300
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 38491,
+    "stargazers_count": 38519,
     "open_issues_count": 20,
-    "forks_count": 10479
+    "forks_count": 10487
   },
   {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4144,
+    "stargazers_count": 4149,
     "open_issues_count": 97,
     "forks_count": 857
   },
@@ -79,49 +79,49 @@
   },
   {
     "full_name": "AbdulMalikDev/PythonCheatSheet",
-    "stargazers_count": 298,
+    "stargazers_count": 299,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "sqlmapproject/sqlmap",
-    "stargazers_count": 23864,
-    "open_issues_count": 55,
-    "forks_count": 4884
+    "stargazers_count": 23871,
+    "open_issues_count": 56,
+    "forks_count": 4889
   },
   {
     "full_name": "commixproject/commix",
-    "stargazers_count": 3320,
+    "stargazers_count": 3324,
     "open_issues_count": 4,
     "forks_count": 700
   },
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 13806,
-    "open_issues_count": 1154,
-    "forks_count": 2698
+    "stargazers_count": 13810,
+    "open_issues_count": 1157,
+    "forks_count": 2701
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17281,
-    "open_issues_count": 1102,
-    "forks_count": 4116
+    "stargazers_count": 17290,
+    "open_issues_count": 1106,
+    "forks_count": 4115
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2876,
-    "open_issues_count": 219,
-    "forks_count": 2782
+    "stargazers_count": 2877,
+    "open_issues_count": 231,
+    "forks_count": 2786
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 340,
+    "stargazers_count": 344,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "Azure/Stormspotter",
-    "stargazers_count": 1153,
+    "stargazers_count": 1154,
     "open_issues_count": 32,
     "forks_count": 149
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "RhinoSecurityLabs/pacu",
-    "stargazers_count": 2837,
+    "stargazers_count": 2840,
     "open_issues_count": 34,
     "forks_count": 512
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4373,
+    "stargazers_count": 4382,
     "open_issues_count": 146,
-    "forks_count": 686
+    "forks_count": 687
   },
   {
     "full_name": "aquasecurity/cloudsploit",
@@ -152,31 +152,31 @@
   {
     "full_name": "ravynsoft/ravynos",
     "stargazers_count": 2426,
-    "open_issues_count": 64,
+    "open_issues_count": 63,
     "forks_count": 95
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 133811,
+    "stargazers_count": 133858,
     "open_issues_count": 317,
-    "forks_count": 43482
+    "forks_count": 43496
   },
   {
     "full_name": "AkashSingh3031/The-Complete-FAANG-Preparation",
-    "stargazers_count": 7862,
+    "stargazers_count": 7867,
     "open_issues_count": 3,
-    "forks_count": 1824
+    "forks_count": 1825
   },
   {
     "full_name": "DulLabs/bhai-lang",
-    "stargazers_count": 3536,
+    "stargazers_count": 3537,
     "open_issues_count": 50,
-    "forks_count": 448
+    "forks_count": 450
   },
   {
     "full_name": "jython/jython",
-    "stargazers_count": 607,
-    "open_issues_count": 47,
+    "stargazers_count": 608,
+    "open_issues_count": 46,
     "forks_count": 107
   }
 ]
