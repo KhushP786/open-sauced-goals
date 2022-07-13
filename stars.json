@@ -1,15 +1,15 @@
 [
   {
     "full_name": "pittcsc/Summer2023-Internships",
-    "stargazers_count": 10020,
-    "open_issues_count": 3,
-    "forks_count": 1055
+    "stargazers_count": 10149,
+    "open_issues_count": 2,
+    "forks_count": 1058
   },
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 4968,
-    "open_issues_count": 5,
-    "forks_count": 254
+    "stargazers_count": 5144,
+    "open_issues_count": 7,
+    "forks_count": 265
   },
   {
     "full_name": "Dark-Knight11/RustProjects",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "antonblanchard/microwatt",
-    "stargazers_count": 501,
+    "stargazers_count": 502,
     "open_issues_count": 42,
     "forks_count": 79
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "illumos/illumos-gate",
-    "stargazers_count": 1206,
+    "stargazers_count": 1205,
     "open_issues_count": 6,
     "forks_count": 715
   },
   {
     "full_name": "owtf/owtf",
-    "stargazers_count": 1583,
+    "stargazers_count": 1582,
     "open_issues_count": 78,
     "forks_count": 463
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "six2dez/pentest-book",
-    "stargazers_count": 764,
-    "open_issues_count": 0,
-    "forks_count": 318
+    "stargazers_count": 766,
+    "open_issues_count": 2,
+    "forks_count": 321
   },
   {
     "full_name": "bobby-lin/study-bug-bounty",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 299,
+    "stargazers_count": 300,
     "open_issues_count": 4,
     "forks_count": 94
   },
   {
     "full_name": "initstring/cloud_enum",
-    "stargazers_count": 806,
+    "stargazers_count": 809,
     "open_issues_count": 2,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "santoru/shcheck",
     "stargazers_count": 270,
     "open_issues_count": 1,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "bl4de/security-tools",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 38961,
+    "stargazers_count": 39044,
     "open_issues_count": 22,
-    "forks_count": 10596
+    "forks_count": 10612
   },
   {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4213,
+    "stargazers_count": 4214,
     "open_issues_count": 97,
-    "forks_count": 861
+    "forks_count": 862
   },
   {
     "full_name": "testert1ng/hacker101-ctf",
@@ -115,37 +115,37 @@
   },
   {
     "full_name": "sqlmapproject/sqlmap",
-    "stargazers_count": 23978,
+    "stargazers_count": 23991,
     "open_issues_count": 57,
-    "forks_count": 4893
+    "forks_count": 4894
   },
   {
     "full_name": "commixproject/commix",
-    "stargazers_count": 3347,
+    "stargazers_count": 3348,
     "open_issues_count": 4,
     "forks_count": 704
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 13882,
+    "stargazers_count": 13883,
     "open_issues_count": 1163,
     "forks_count": 2721
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17402,
-    "open_issues_count": 1095,
-    "forks_count": 4152
+    "stargazers_count": 17442,
+    "open_issues_count": 1098,
+    "forks_count": 4154
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2916,
-    "open_issues_count": 179,
-    "forks_count": 2828
+    "stargazers_count": 2918,
+    "open_issues_count": 186,
+    "forks_count": 2837
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 358,
+    "stargazers_count": 360,
     "open_issues_count": 4,
     "forks_count": 29
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "RhinoSecurityLabs/pacu",
-    "stargazers_count": 2857,
-    "open_issues_count": 34,
+    "stargazers_count": 2859,
+    "open_issues_count": 35,
     "forks_count": 516
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4442,
+    "stargazers_count": 4447,
     "open_issues_count": 152,
-    "forks_count": 696
+    "forks_count": 699
   },
   {
     "full_name": "aquasecurity/cloudsploit",
-    "stargazers_count": 2248,
-    "open_issues_count": 156,
-    "forks_count": 515
+    "stargazers_count": 2249,
+    "open_issues_count": 157,
+    "forks_count": 516
   }
 ]
