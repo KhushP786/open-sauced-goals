@@ -7,15 +7,15 @@
   },
   {
     "full_name": "pittcsc/Summer2023-Internships",
-    "stargazers_count": 11193,
-    "open_issues_count": 2,
-    "forks_count": 1138
+    "stargazers_count": 11335,
+    "open_issues_count": 6,
+    "forks_count": 1157
   },
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 5806,
-    "open_issues_count": 10,
-    "forks_count": 318
+    "stargazers_count": 5873,
+    "open_issues_count": 12,
+    "forks_count": 325
   },
   {
     "full_name": "Dark-Knight11/RustProjects",
@@ -26,7 +26,7 @@
   {
     "full_name": "antonblanchard/microwatt",
     "stargazers_count": 505,
-    "open_issues_count": 43,
+    "open_issues_count": 46,
     "forks_count": 80
   },
   {
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "illumos/illumos-gate",
-    "stargazers_count": 1216,
+    "stargazers_count": 1218,
     "open_issues_count": 6,
-    "forks_count": 715
+    "forks_count": 716
   },
   {
     "full_name": "owtf/owtf",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "carlospolop/legion",
-    "stargazers_count": 490,
+    "stargazers_count": 492,
     "open_issues_count": 2,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "six2dez/pentest-book",
-    "stargazers_count": 787,
+    "stargazers_count": 790,
     "open_issues_count": 2,
-    "forks_count": 329
+    "forks_count": 328
   },
   {
     "full_name": "bobby-lin/study-bug-bounty",
-    "stargazers_count": 185,
+    "stargazers_count": 188,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 4,
     "forks_count": 98
   },
   {
     "full_name": "initstring/cloud_enum",
-    "stargazers_count": 819,
+    "stargazers_count": 822,
     "open_issues_count": 2,
-    "forks_count": 152
+    "forks_count": 151
   },
   {
     "full_name": "santoru/shcheck",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "bl4de/security-tools",
-    "stargazers_count": 645,
+    "stargazers_count": 644,
     "open_issues_count": 0,
     "forks_count": 153
   },
   {
     "full_name": "screetsec/Sudomy",
-    "stargazers_count": 1367,
+    "stargazers_count": 1377,
     "open_issues_count": 24,
     "forks_count": 304
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 39758,
-    "open_issues_count": 24,
-    "forks_count": 10784
+    "stargazers_count": 39848,
+    "open_issues_count": 25,
+    "forks_count": 10811
   },
   {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4295,
+    "stargazers_count": 4300,
     "open_issues_count": 100,
-    "forks_count": 875
+    "forks_count": 877
   },
   {
     "full_name": "testert1ng/hacker101-ctf",
@@ -115,67 +115,67 @@
   },
   {
     "full_name": "AbdulMalikDev/PythonCheatSheet",
-    "stargazers_count": 339,
+    "stargazers_count": 342,
     "open_issues_count": 0,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "sqlmapproject/sqlmap",
-    "stargazers_count": 24213,
-    "open_issues_count": 56,
-    "forks_count": 4919
+    "stargazers_count": 24257,
+    "open_issues_count": 57,
+    "forks_count": 4926
   },
   {
     "full_name": "commixproject/commix",
-    "stargazers_count": 3387,
+    "stargazers_count": 3390,
     "open_issues_count": 4,
-    "forks_count": 709
+    "forks_count": 710
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 13966,
+    "stargazers_count": 13984,
     "open_issues_count": 1171,
-    "forks_count": 2748
+    "forks_count": 2752
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17716,
-    "open_issues_count": 1130,
-    "forks_count": 4210
+    "stargazers_count": 17753,
+    "open_issues_count": 1133,
+    "forks_count": 4224
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2995,
-    "open_issues_count": 202,
-    "forks_count": 2919
+    "stargazers_count": 3001,
+    "open_issues_count": 191,
+    "forks_count": 2932
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 381,
-    "open_issues_count": 8,
-    "forks_count": 30
+    "stargazers_count": 383,
+    "open_issues_count": 6,
+    "forks_count": 31
   },
   {
     "full_name": "Azure/Stormspotter",
-    "stargazers_count": 1178,
+    "stargazers_count": 1181,
     "open_issues_count": 11,
     "forks_count": 155
   },
   {
     "full_name": "RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 5,
     "forks_count": 54
   },
   {
     "full_name": "RhinoSecurityLabs/pacu",
-    "stargazers_count": 2901,
+    "stargazers_count": 2907,
     "open_issues_count": 35,
-    "forks_count": 526
+    "forks_count": 527
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4512,
+    "stargazers_count": 4517,
     "open_issues_count": 155,
     "forks_count": 711
   }
