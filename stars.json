@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "killmongar1996/sqlTinj",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "PureDarwin/corecrypto",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "libtom/libtommath",
+    "stargazers_count": 526,
+    "open_issues_count": 36,
+    "forks_count": 172
+  },
+  {
+    "full_name": "libtom/libtomcrypt",
+    "stargazers_count": 1285,
+    "open_issues_count": 65,
+    "forks_count": 404
+  },
+  {
     "full_name": "hieunc229/copilot-clone",
-    "stargazers_count": 1085,
+    "stargazers_count": 1098,
     "open_issues_count": 3,
-    "forks_count": 154
+    "forks_count": 159
   },
   {
     "full_name": "s3curitybug/spring4shell-vulnerable-app",
@@ -13,9 +37,9 @@
   },
   {
     "full_name": "christophetd/log4shell-vulnerable-app",
-    "stargazers_count": 1002,
+    "stargazers_count": 1003,
     "open_issues_count": 7,
-    "forks_count": 447
+    "forks_count": 446
   },
   {
     "full_name": "tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
@@ -25,21 +49,21 @@
   },
   {
     "full_name": "ravynsoft/filer",
-    "stargazers_count": 4,
-    "open_issues_count": 5,
+    "stargazers_count": 5,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "pittcsc/Summer2023-Internships",
-    "stargazers_count": 12197,
-    "open_issues_count": 2,
-    "forks_count": 1248
+    "stargazers_count": 12417,
+    "open_issues_count": 5,
+    "forks_count": 1280
   },
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 6028,
-    "open_issues_count": 10,
-    "forks_count": 341
+    "stargazers_count": 6059,
+    "open_issues_count": 11,
+    "forks_count": 343
   },
   {
     "full_name": "Dark-Knight11/RustProjects",
@@ -50,7 +74,7 @@
   {
     "full_name": "antonblanchard/microwatt",
     "stargazers_count": 509,
-    "open_issues_count": 46,
+    "open_issues_count": 43,
     "forks_count": 80
   },
   {
@@ -63,43 +87,43 @@
     "full_name": "illumos/illumos-gate",
     "stargazers_count": 1228,
     "open_issues_count": 7,
-    "forks_count": 717
+    "forks_count": 716
   },
   {
     "full_name": "owtf/owtf",
-    "stargazers_count": 1591,
+    "stargazers_count": 1592,
     "open_issues_count": 79,
     "forks_count": 467
   },
   {
     "full_name": "carlospolop/legion",
-    "stargazers_count": 503,
+    "stargazers_count": 505,
     "open_issues_count": 2,
     "forks_count": 105
   },
   {
     "full_name": "six2dez/pentest-book",
-    "stargazers_count": 818,
+    "stargazers_count": 848,
     "open_issues_count": 0,
-    "forks_count": 338
+    "forks_count": 347
   },
   {
     "full_name": "bobby-lin/study-bug-bounty",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 317,
+    "stargazers_count": 319,
     "open_issues_count": 4,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "initstring/cloud_enum",
-    "stargazers_count": 837,
+    "stargazers_count": 840,
     "open_issues_count": 2,
-    "forks_count": 150
+    "forks_count": 152
   },
   {
     "full_name": "santoru/shcheck",
@@ -109,27 +133,27 @@
   },
   {
     "full_name": "bl4de/security-tools",
-    "stargazers_count": 646,
+    "stargazers_count": 648,
     "open_issues_count": 0,
     "forks_count": 153
   },
   {
     "full_name": "screetsec/Sudomy",
-    "stargazers_count": 1390,
+    "stargazers_count": 1395,
     "open_issues_count": 26,
-    "forks_count": 307
+    "forks_count": 309
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 40464,
-    "open_issues_count": 27,
-    "forks_count": 10926
+    "stargazers_count": 40558,
+    "open_issues_count": 28,
+    "forks_count": 10948
   },
   {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4343,
-    "open_issues_count": 103,
-    "forks_count": 886
+    "stargazers_count": 4354,
+    "open_issues_count": 104,
+    "forks_count": 891
   },
   {
     "full_name": "testert1ng/hacker101-ctf",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "AbdulMalikDev/PythonCheatSheet",
-    "stargazers_count": 384,
+    "stargazers_count": 389,
     "open_issues_count": 0,
     "forks_count": 49
   },
   {
     "full_name": "sqlmapproject/sqlmap",
-    "stargazers_count": 24443,
-    "open_issues_count": 55,
-    "forks_count": 4951
+    "stargazers_count": 24479,
+    "open_issues_count": 54,
+    "forks_count": 4954
   },
   {
     "full_name": "commixproject/commix",
-    "stargazers_count": 3426,
+    "stargazers_count": 3430,
     "open_issues_count": 4,
-    "forks_count": 720
-  },
-  {
-    "full_name": "ipfs/kubo",
-    "stargazers_count": 14061,
-    "open_issues_count": 1178,
-    "forks_count": 2772
-  },
-  {
-    "full_name": "ethereum/solidity",
-    "stargazers_count": 17992,
-    "open_issues_count": 1116,
-    "forks_count": 4263
-  },
-  {
-    "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 3052,
-    "open_issues_count": 255,
-    "forks_count": 3000
-  },
-  {
-    "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 398,
-    "open_issues_count": 5,
-    "forks_count": 35
+    "forks_count": 721
   }
 ]

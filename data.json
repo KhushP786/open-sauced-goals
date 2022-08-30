@@ -1,15 +1,15 @@
 [
   {
     "full_name": "ravynsoft/filer",
-    "stargazers_count": 4,
-    "open_issues_count": 5,
+    "stargazers_count": 5,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 6028,
-    "open_issues_count": 10,
-    "forks_count": 341
+    "stargazers_count": 6059,
+    "open_issues_count": 11,
+    "forks_count": 343
   },
   {
     "full_name": "darlinghq/darling-libxpc",
@@ -43,32 +43,32 @@
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 3994,
-    "open_issues_count": 78,
-    "forks_count": 128
+    "stargazers_count": 4089,
+    "open_issues_count": 102,
+    "forks_count": 133
   },
   {
     "full_name": "PureDarwin/PureDarwin",
-    "stargazers_count": 1764,
+    "stargazers_count": 1765,
     "open_issues_count": 31,
     "forks_count": 134
   },
   {
     "full_name": "arch3rPro/PentestTools",
-    "stargazers_count": 317,
+    "stargazers_count": 319,
     "open_issues_count": 4,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "bobby-lin/study-bug-bounty",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 753,
-    "open_issues_count": 17,
-    "forks_count": 363
+    "stargazers_count": 761,
+    "open_issues_count": 18,
+    "forks_count": 364
   }
 ]
